@@ -16,7 +16,11 @@ The winning teams were all very close:
 
 Place   Team              RMSE [m]
 1st     richardalligier   25.02
+
 2nd 	  ZAViators         25.817 	
+
 3rd     ck.ua             26.214 
+
 4th     sergei_markochev 	33.544 
+
 5th	    dataWizard        59.467 	
