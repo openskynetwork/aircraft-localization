@@ -12,9 +12,10 @@ All 7 training data sets and the competition data set for round 1 are available 
 # Code of the winners
 The code of the winning teams is licensed under the GNU GPLv3 license as required by the rules of the competitions: https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition/challenge_rules
 
-The winning teams were all very close:
+The winning teams were all very close, using traditional multilateration techniques as their basis.
 
 Place   Team              RMSE [m]
+
 1st     richardalligier   25.02
 
 2nd 	  ZAViators         25.817 	
