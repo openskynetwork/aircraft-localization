@@ -25,3 +25,12 @@ Place   Team              RMSE [m]
 4th     sergei_markochev 	33.544 
 
 5th	    dataWizard        59.467 	
+
+
+# Publications
+Besides the documentations of the code the 2nd place competitors have provided a detailed writeup for the 8th OpenSky Symposium. 
+
+Video: https://www.youtube.com/watch?v=msBtF0Swfn4
+
+Publication: Benoit Figuet, Raphael Monstein, Manuel Waltert and Steven I Barry. "Predicting Airplane Go-Arounds using Machine Learning and Open-Source Data."
+In Proceedings of the 8th OpenSky Symposium 2020. November 2020. [Open Access link to follow]
