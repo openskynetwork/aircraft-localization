@@ -37,4 +37,4 @@ Besides the documentations of the code the 2nd place competitors have provided a
 
 Video: https://www.youtube.com/watch?v=msBtF0Swfn4
 
-Publication: Benoit Figuet, Michael Felux and Raphael Monstein. "Combined multilateration with machine learning for enhanced aircraft localization." In Proceedings of the 8th OpenSky Symposium 2020. November 2020. [Open Access link to follow]
+Publication: Benoit Figuet, Michael Felux and Raphael Monstein. "Combined multilateration with machine learning for enhanced aircraft localization." In Proceedings of the 8th OpenSky Symposium 2020. November 2020. [Open Access link: https://www.mdpi.com/2504-3900/59/1/2]
