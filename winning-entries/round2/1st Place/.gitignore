@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Cython temporary
+build/
+*.so
+*.o
+*.c
+
+# Data folder
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# zip files
+.zip
+
