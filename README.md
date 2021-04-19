@@ -3,12 +3,14 @@ Code and data from the OpenSky Network - Cyber-Defence Campus aircraft localizat
 The competition and all details can be found at https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition
 
 The first round ran from 2020-06-15 08:00 until 2020-07-31 23:59.
+
 The (reloaded) second round ran from 2020-12-01 09:00 until 2021-01-31 18:00.
 
 
 # Training & competition data
 Round 1:
 All 7 training data sets and the competition data set for round 1 are available at https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition/dataset_files
+
 
 Round 2:
 All training data sets are available at https://www.dropbox.com/s/7hu8y3kutpx4bgq/round2_training.zip?dl=0
@@ -36,7 +38,7 @@ Place	Team              	RMSE [m]
 
 3rd		ck.ua             	26.214 
 
-4th		sergei_markochev	33.544 
+4th		sergei_markochev		33.544 
 
 5th		dataWizard        	59.467 	
 
@@ -48,11 +50,11 @@ Place   Team              	RMSE [m]
 
 1st     sergei_markochev   	81.890
 
-2nd 	ck.ua         		98.370	
+2nd 		ck.ua         			98.370	
 
 3rd     nwpu.i4Sky          154.574
 
-4th     ZAViators		 	171.663
+4th     ZAViators		 				171.663
 
 5th	    dataWizard        	2392.535
 
