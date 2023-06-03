@@ -60,11 +60,33 @@ Place   Team              	RMSE [m]
 
 
 # Publications
-Besides the documentations of the code the 2nd place competitors of round 1 have provided a detailed writeup for the 8th OpenSky Symposium. 
+Besides the documentations of the code, the 2nd place competitors of round 1 have provided a detailed writeup for the 8th OpenSky Symposium. 
 
-Video: https://www.youtube.com/watch?v=msBtF0Swfn4
+Video: https://www.youtube.com/watch?v=msBtF0Swfn4 (Benoit Figuet – Combined multilateration with machine learning for enhanced aircraft localization)
 
 Publication: Benoit Figuet, Michael Felux and Raphael Monstein. "Combined multilateration with machine learning for enhanced aircraft localization." In Proceedings of the 8th OpenSky Symposium 2020. November 2020. [Open Access link: https://www.mdpi.com/2504-3900/59/1/2]
 
-Likewise, before the extended round 2, we have released a full discussion of the training and test datasets in this pre-print: 
-Matthias Schäfer, Martin Strohmeier, Mauro Leonardi and Vincent Lenders. LocaRDS: A Localization Reference Data Set. arXiv preprint arXiv:2012.00116. December 2020. https://arxiv.org/abs/2012.00116 
+
+Before the extended round 2, we have released a full discussion of the training and test datasets:
+
+Preprint: Matthias Schäfer, Martin Strohmeier, Mauro Leonardi and Vincent Lenders. LocaRDS: A Localization Reference Data Set. arXiv preprint arXiv:2012.00116. December 2020. https://arxiv.org/abs/2012.00116 
+
+Publication: https://www.mdpi.com/1424-8220/21/16/5516
+
+Dataset: https://zenodo.org/record/4739276
+
+
+The first place of the second round has also provided a publication and video in addition to the documentation in this repository for the 9th OpenSky Symposium:
+
+Video: https://www.youtube.com/watch?v=hB4QrLhoWgE (Sergei Markochev - Aircraft localization with nanosecond precision from distributed receivers)
+
+Publication:  Markochev S. Aircraft Localization Using ATC Data with Nanosecond Precision from Distributed Crowdsourced Receivers. Engineering Proceedings. 2021; 13(1):12. https://doi.org/10.3390/engproc2021013012 
+
+
+Finally, we have a published a write-up, detailing the full history of this competition:
+
+Preprint: Martin Strohmeier, Mauro Leonardi, Sergei Markochev, Fabio Ricciato, Matthias Schäfer, Vincent Lenders. Improving Aircraft Localization: Experiences and Lessons Learned from an Open Competition. https://arxiv.org/abs/2209.13669
+
+Publication: Strohmeier, M., Leonardi, M., Markochev, S., Ricciato, F., Schäfer, M. and Lenders, V., 2023. In Pursuit of Aviation Cybersecurity: Experiences and Lessons From a Competitive Approach. IEEE Security & Privacy. https://ieeexplore.ieee.org/abstract/document/10109762
+
+
